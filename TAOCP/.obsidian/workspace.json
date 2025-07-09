@@ -185,10 +185,28 @@
   },
   "active": "2274742190f1eece",
   "lastOpenFiles": [
-    "Volume_1/Knuth_Donald_Ervin_The_Art_of_Computer_Programming",
-    "Volume_1/Knuth, Donald Ervin - The Art of Computer Programming, Volume 1_ Fundamental Algorithms (1997_2013, Addison-Wesley) - libgen.li.pdf",
+    "Volume_1/doc/index.html",
+    "Volume_1/doc/pdfjs/web/wasm/qcms_bg.wasm",
+    "Volume_1/doc/pdfjs/web/wasm/openjpeg_nowasm_fallback.js",
+    "Volume_1/doc/pdfjs/web/wasm/openjpeg.wasm",
+    "Volume_1/doc/pdfjs/web/wasm/LICENSE_QCMS",
+    "Volume_1/doc/pdfjs/web/wasm/LICENSE_PDFJS_QCMS",
+    "Volume_1/doc/pdfjs/web/wasm/LICENSE_PDFJS_OPENJPEG",
+    "Volume_1/doc/pdfjs/web/wasm/LICENSE_OPENJPEG",
+    "Volume_1/doc/pdfjs/web/wasm",
+    "Volume_1/doc/pdfjs/web/viewer.mjs.map",
+    "Volume_1/doc/pdfjs/web/viewer.mjs",
+    "Volume_1/doc/pdfjs/web/images/treeitem-expanded.svg",
+    "Volume_1/doc/pdfjs/web/images/treeitem-collapsed.svg",
+    "Volume_1/doc/pdfjs/web/images/toolbarButton-zoomOut.svg",
+    "Volume_1/doc/pdfjs/web/images/toolbarButton-zoomIn.svg",
+    "Volume_1/doc/pdfjs/web/images/toolbarButton-viewThumbnail.svg",
+    "Volume_1/doc/pdfjs/web/images/toolbarButton-viewOutline.svg",
+    "Volume_1/doc/pdfjs/web/images/toolbarButton-viewLayers.svg",
+    "Volume_1/doc/pdfjs/web/images/toolbarButton-viewAttachments.svg",
+    "Volume_1/doc/pdfjs/web/images/toolbarButton-sidebarToggle.svg",
+    "Volume_1/doc/pdfjs/web/images/toolbarButton-secondaryToolbarToggle.svg",
     "Notes.md",
-    "Welcome.md",
-    "Volume_1"
+    "Welcome.md"
   ]
 }
