@@ -1,1 +1,0 @@
-[view PDF](https://docs.google.com/viewer?url=https://github.com/XUAN-CSU/TAOCP/blob/master/Volum3_1/Knuth_Donld_Ervin_The_Arg_of_Computer_Programming)
