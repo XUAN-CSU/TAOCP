@@ -185,6 +185,7 @@
   },
   "active": "2274742190f1eece",
   "lastOpenFiles": [
+    "Volume_1/doc/sample.pdf",
     "Volume_1/doc/index.html",
     "Volume_1/doc/pdfjs/web/wasm/qcms_bg.wasm",
     "Volume_1/doc/pdfjs/web/wasm/openjpeg_nowasm_fallback.js",
@@ -195,7 +196,6 @@
     "Volume_1/doc/pdfjs/web/wasm/LICENSE_OPENJPEG",
     "Volume_1/doc/pdfjs/web/wasm",
     "Volume_1/doc/pdfjs/web/viewer.mjs.map",
-    "Volume_1/doc/pdfjs/web/viewer.mjs",
     "Volume_1/doc/pdfjs/web/images/treeitem-expanded.svg",
     "Volume_1/doc/pdfjs/web/images/treeitem-collapsed.svg",
     "Volume_1/doc/pdfjs/web/images/toolbarButton-zoomOut.svg",
